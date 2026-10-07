@@ -1,5 +1,5 @@
 import React from 'react';
-import ShapeCard from '@/components/shape/ShapeCard';
+import ShapeCard from '@/components/Shape/ShapeCard';
 import { FORMS } from '@/data/forms';
 
 export default function ShapeSection() {
